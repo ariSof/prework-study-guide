@@ -1,2 +1,2 @@
 # prework-study-guide
-Bootcamp pre-work studyguide for students.
+BootCamp Prework Study Guide for Students.
